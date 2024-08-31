@@ -43,16 +43,3 @@ This project uses the MovieLens Small Dataset. Make sure you have the following 
 1. Collaborative Filtering: This method finds users similar to you based on rating patterns and recommends movies that these similar users have rated highly.
 2. Content-Based Filtering: This method recommends movies similar to the ones you've rated highly, based on movie features (in this case, genres).
 3. The system combines both methods to provide a diverse set of recommendations.
-
-## Future Improvements
-- Implement a web-based user interface
-- Add more advanced recommendation algorithms
-- Incorporate more features like movie descriptions or user demographics
-- Optimize for larger datasets
-
-## Acknowledgements
-This project uses the MovieLens dataset:
-F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872
-
-## Note for Beginners
-While this system uses some advanced concepts and libraries, it serves as an excellent learning resource for understanding how recommendation systems work. As you continue to learn and grow, you'll be able to understand and modify more aspects of this code.
